@@ -9,7 +9,7 @@
 
 namespace Hbc;
 
-class Hbc{
+class SDK{
 
   public function desc(){
     echo "this is my Hbc";
