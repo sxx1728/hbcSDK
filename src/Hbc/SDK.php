@@ -9,8 +9,6 @@
 
 namespace Hbc;
 
-require_once('../../vendor/autoload.php');
-
 class SDK{
 
 
